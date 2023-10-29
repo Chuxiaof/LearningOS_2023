@@ -1,3 +1,3 @@
 # Rust-OS-Log
 
-Here is my learning schedule and notes. Enjoy.
+My learning logs and notes participating in [The Learning&Training Hub of OS Kernel](https://github.com/LearningOS). 
